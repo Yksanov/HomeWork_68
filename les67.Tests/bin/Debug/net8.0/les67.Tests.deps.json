@@ -1022,8 +1022,14 @@
       },
       "xunit.runner.visualstudio/2.5.3": {},
       "les67/1.0.0": {
+        "dependencies": {
+          "xunit.assert": "2.5.3"
+        },
         "runtime": {
-          "les67.dll": {}
+          "les67.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
