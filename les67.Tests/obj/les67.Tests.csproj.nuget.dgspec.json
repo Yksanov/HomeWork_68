@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\e.yksanov\\Desktop\\Lesson_68\\les67.Tests\\les67.Tests.csproj": {}
+    "C:\\Users\\e.yksanov\\Desktop\\js\\Lesson_68\\les67.Tests\\les67.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\e.yksanov\\Desktop\\Lesson_68\\les67.Tests\\les67.Tests.csproj": {
+    "C:\\Users\\e.yksanov\\Desktop\\js\\Lesson_68\\les67.Tests\\les67.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\e.yksanov\\Desktop\\Lesson_68\\les67.Tests\\les67.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\e.yksanov\\Desktop\\js\\Lesson_68\\les67.Tests\\les67.Tests.csproj",
         "projectName": "les67.Tests",
-        "projectPath": "C:\\Users\\e.yksanov\\Desktop\\Lesson_68\\les67.Tests\\les67.Tests.csproj",
+        "projectPath": "C:\\Users\\e.yksanov\\Desktop\\js\\Lesson_68\\les67.Tests\\les67.Tests.csproj",
         "packagesPath": "C:\\Users\\e.yksanov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\e.yksanov\\Desktop\\Lesson_68\\les67.Tests\\obj\\",
+        "outputPath": "C:\\Users\\e.yksanov\\Desktop\\js\\Lesson_68\\les67.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\e.yksanov\\Desktop\\Lesson_68\\les67\\les67.csproj": {
-                "projectPath": "C:\\Users\\e.yksanov\\Desktop\\Lesson_68\\les67\\les67.csproj"
+              "C:\\Users\\e.yksanov\\Desktop\\js\\Lesson_68\\les67\\les67.csproj": {
+                "projectPath": "C:\\Users\\e.yksanov\\Desktop\\js\\Lesson_68\\les67\\les67.csproj"
               }
             }
           }
@@ -105,14 +105,14 @@
         }
       }
     },
-    "C:\\Users\\e.yksanov\\Desktop\\Lesson_68\\les67\\les67.csproj": {
+    "C:\\Users\\e.yksanov\\Desktop\\js\\Lesson_68\\les67\\les67.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\e.yksanov\\Desktop\\Lesson_68\\les67\\les67.csproj",
+        "projectUniqueName": "C:\\Users\\e.yksanov\\Desktop\\js\\Lesson_68\\les67\\les67.csproj",
         "projectName": "les67",
-        "projectPath": "C:\\Users\\e.yksanov\\Desktop\\Lesson_68\\les67\\les67.csproj",
+        "projectPath": "C:\\Users\\e.yksanov\\Desktop\\js\\Lesson_68\\les67\\les67.csproj",
         "packagesPath": "C:\\Users\\e.yksanov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\e.yksanov\\Desktop\\Lesson_68\\les67\\obj\\",
+        "outputPath": "C:\\Users\\e.yksanov\\Desktop\\js\\Lesson_68\\les67\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
